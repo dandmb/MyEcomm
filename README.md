@@ -1,6 +1,7 @@
 # 🛒 E-Commerce Order Management System
 
-![img.png](img.png)
+![diagram.png](diagram.png)
+
 
 ## 📖 Overview
 
