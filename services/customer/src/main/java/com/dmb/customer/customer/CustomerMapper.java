@@ -10,7 +10,6 @@ public class CustomerMapper {
       return null;
     }
     return Customer.builder()
-        .id(request.id())
         .firstname(request.firstname())
         .lastname(request.lastname())
         .email(request.email())
@@ -23,7 +22,7 @@ public class CustomerMapper {
       return null;
     }
     return new CustomerResponse(
-        customer.getId(),
+        customer.getId().toString(),
         customer.getFirstname(),
         customer.getLastname(),
         customer.getEmail(),
