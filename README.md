@@ -2,7 +2,6 @@
 
 ![diagram.png](diagram.png)
 
-
 ## 📖 Overview
 
 As an e-commerce business owner, I currently manage my operations without any digital solution. This project aims to build a dedicated application that automates and streamlines the entire order management process, improving efficiency, scalability, and customer experience.
@@ -18,6 +17,8 @@ The business offers a catalog of products, where each product includes:
 
 Customers can browse this catalog and place orders for the products they wish to purchase.
 
+---
+![schema.png](schema.png)
 ---
 
 ## 👤 Customer Management
